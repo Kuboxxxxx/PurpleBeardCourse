@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+}
+header{
+    background-color: burlywood;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+main{
+    width: 80%;
+    margin: auto;
+    margin-top: -20px;
+    background-color: burlywood;
+    display: block;
+}
+a{
+    text-decoration: none;
+}
+a:active{
+    color: black;
+}
+a:visited{
+    color: black;
+}
